@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarush1357/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aarush1357/DSA-/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aarush1357/DSA-/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
